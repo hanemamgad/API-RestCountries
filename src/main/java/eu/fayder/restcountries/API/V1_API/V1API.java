@@ -4,7 +4,6 @@ import eu.fayder.restcountries.v1.domain.Country;
 import eu.fayder.restcountries.v1.rest.CountryRest;
 import eu.fayder.restcountries.v1.rest.CountryService;
 import org.apache.log4j.net.SyslogAppender;
-
 import java.util.List;
 
 public class V1API {
